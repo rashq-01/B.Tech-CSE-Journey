@@ -92,7 +92,7 @@ Fetch is used for get,post or update the data through the API or an link and we 
 
 Map function is used to map the data of the users by key value pairs
 
-react forms are used to collect user inputs.
-Forms are commonly used by state and event handlers
-A controlled input is an input whose values are controlled by react state
+  react forms are used to collect user inputs.
+  Forms are commonly used by state and event handlers
+  A controlled input is an input whose values are controlled by react state
 */
